@@ -2,8 +2,8 @@ from tkinter import Tk
 import socket
 PORT = 3872
 
-LAPTOP = "one-ip-here"
-PC = "the-other-ip-here"
+SELF = "one-ip-here"
+OTHER = "the-other-ip-here"
 
 def send(IP):
     sender = socket.socket()
