@@ -18,7 +18,7 @@ thought this would be at least useful to some extent.
     1. In COMPUTER1 put the IP of COMPUTER1 here `SELF = "one-ip-here"` and the IP of COMPUTER2 here `OTHER = "the-other-ip-here"` (I'm assuming you know how to find IPs, if you don't, google it)
     2. In COMPUTER2 put the IP of COMPUTER2 here `SELF = "one-ip-here"` and the IP of COMPUTER1 here `OTHER = "the-other-ip-here"`
 3. Run the program simultaneously in both computers by opening a command prompt, navigating to the folder that you seved transport.py and passing `python transport.py` as a command
-4. **IT IS ESSENCIAL THAT THE FIRST THING YOU DO IS DECIDE THE RECEIVER AND CLICK "Receive" AND THEN FROM THE OTHER COMPUTER CLICK SEND.
+4. **IT IS ESSENCIAL THAT THE FIRST THING YOU DO IS DECIDE THE RECEIVER AND CLICK "Receive" AND THEN FROM THE OTHER COMPUTER CLICK SEND.***-
 Now whatever you copied in COMPUTER1, let's say, is in the clipboard of COMPUTER2 so you can hit "paste" and verify for yourself. 
 NOTE: Do not close the program if you haven't his paste.
 ## Future Improvements
